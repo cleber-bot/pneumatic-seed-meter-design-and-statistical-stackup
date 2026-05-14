@@ -22,7 +22,7 @@ The critical challenge was ensuring a hermetic seal in the meter housing. A smal
 The system was designed for high durability and field performance, utilizing complex geometries for seed singulation.
 
 <p align="center">
-  <img src="images/bolt.jpg" width="60%" />
+  <img src="images/bolt.png" width="60%" />
   <br><em>Figure 1: Exploded view of the Seed Meter assembly.</em>
 </p>
 
@@ -30,9 +30,9 @@ The system was designed for high durability and field performance, utilizing com
 Using a custom Python script, I performed **Monte Carlo Simulations** (10,000+ iterations) to predict how manufacturing variations affect the final assembly gap.
 
 <p align="center">
-  <img src="images/COMPRESSION HISTOGRAM.jpg" width="31%" />
-  <img src="images/GAP DISTIBUTION.jpg" width="31%" />
-  <img src="images/PARETO.jpg" width="31%" />
+  <img src="images/COMPRESSION HISTOGRAM.png" width="31%" />
+  <img src="images/GAP DISTIBUTION.png" width="31%" />
+  <img src="images/PARETO.png" width="31%" />
   <br><em>Figure 2: Statistical outputs showing Compression Histogram, Gap Distribution, and Pareto Sensitivity Analysis.</em>
 </p>
 
@@ -44,7 +44,7 @@ Using a custom Python script, I performed **Monte Carlo Simulations** (10,000+ i
 I developed a spatial failure map to visualize the probability of leaks across the sealing perimeter, allowing for targeted mold adjustments.
 
 <p align="center">
-  <img src="images/FAILURE MAP.jpg" width="45%" />
+  <img src="images/FAILURE MAP.png" width="45%" />
   <br><em>Figure 3: Polar Failure Map identifying critical leakage zones.</em>
 </p>
 
