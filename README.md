@@ -52,7 +52,7 @@ I developed a spatial failure map to visualize the probability of leaks across t
 ---
 
 ## 💻 Tech Stack
-* **CAD/PLM:** Inventor (Expert/Book Author), SolidWorks.
+* **CAD/PLM:** Siemens NX (Expert/Book Author), SolidWorks.
 * **Simulation & Math:** Python (NumPy, Matplotlib), CETOL 6σ, Excel/VBA.
 * **Manufacturing:** Plastic Injection Molding, GD&T (ASME Y14.5).
 
