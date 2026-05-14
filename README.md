@@ -2,7 +2,8 @@
 Complete mechanical development of a seed metering system, from high-complexity CAD modeling to 3D statistical tolerance analysis using CETOL 6σ and custom Python scripts
 # Precision Seed Meter: Full Product Development & Statistical Tolerance Analysis
 
-This repository showcases the end-to-end mechanical development of a high-precision seed metering system. The project integrates advanced 3D CAD modeling, Design for Manufacturing (DFM), and rigorous statistical validation to ensure vacuum sealing and operational reliability.
+This repository showcases the end-to-end mechanical development of a high-precision seed metering system. The project integrates advanced 3D CAD modeling, Design for Manufacturing (DFM), and rigorous statistical validation to ensure pressure
+sealing and operational reliability.
 
 ## 🛠 Project Scope
 
@@ -16,7 +17,7 @@ This repository showcases the end-to-end mechanical development of a high-precis
 
 ## 📊 Engineering Methodology & Visual Validation
 
-The critical challenge was ensuring a hermetic seal in the meter housing. A small deviation in the injection molding process could lead to vacuum loss, affecting planting precision.
+The critical challenge was ensuring a hermetic seal in the meter housing. A small deviation in the injection molding process could lead to pressure loss, affecting planting precision.
 
 ### 1. Mechanical Assembly (CAD)
 The system was designed for high durability and field performance, utilizing complex geometries for seed singulation.
