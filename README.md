@@ -6,7 +6,7 @@ This repository showcases the end-to-end mechanical development of a high-precis
 
 ## 🛠 Project Scope
 
-1.  **3D CAD Design (Siemens NX):** Complete modeling of high-complexity plastic injection components, focusing on seed flow optimization and mechanical integration.
+1.  **3D CAD Design (SoliWorks):** Complete modeling of high-complexity plastic injection components, focusing on seed flow optimization and mechanical integration.
 2.  **GD&T & Technical Detailing:** Application of ASME Y14.5 standards to ensure assembly interchangeability and tight sealing interfaces.
 3.  **Statistical Tolerance Stack-up:**
     * Initial analysis performed using **CETOL 6σ**.
